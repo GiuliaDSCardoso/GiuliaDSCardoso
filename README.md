@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GiuliaDSCardoso
 - 👀 I’m interested in ...Learn!
 - 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ...Everyone!
-- 📫 How to reach me ...imgirassoia@gmail.com
+- 💞️ I’m looking to collaborate with ...Everyone!
+- 📫 How to reach me ...giulia.cardoso.2981@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...im a duck!(joke)
 

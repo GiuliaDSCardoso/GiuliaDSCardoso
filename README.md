@@ -16,4 +16,8 @@ In English:<br>I'm currently looking for an opportunity to improve my knowledge 
 [![](https://visitcount.itsvg.in/api?id=GiuliaDSCardoso&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Snake animation](https://github.com/GiuliaDSCardos/GiuliaDSCardoso/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiuliaDSCardoso/GiuliaDSCardoso/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiuliaDSCardoso/GiuliaDSCardoso/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GiuliaDSCardoso/GiuliaDSCardoso/output/github-contribution-grid-snake.svg">
+</picture>

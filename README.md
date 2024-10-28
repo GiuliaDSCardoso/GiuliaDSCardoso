@@ -16,5 +16,3 @@ In English:<br>I'm currently looking for an opportunity to improve my knowledge 
 [![](https://visitcount.itsvg.in/api?id=GiuliaDSCardoso&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Snake animation](https://github.com/GiuliaDSCardoso/GiuliaDSCardoso/blob/output/github-contribution-grid-snake.svg)
-
